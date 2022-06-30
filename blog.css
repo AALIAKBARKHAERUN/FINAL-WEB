@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700,800,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Courgette&family=Rancho&display=swap');
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:'Poppins', sans-serif;
+}
+body{
+    overflow-x: hidden;
+    background: #fff;
+    min-height:100vh;
+}
+
+/*#header{
+    position:absolute;
+    top:0;
+    left: 0;
+    width: 100%;
+    padding: 30px 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 100;
+}
+#header .logo{
+    color:#094b65;
+    text-decoration: none;
+    width:70px;
+    margin-left: -50px;
+}
+#header ul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#header ul li{
+    list-style: none;
+    margin-left: 20px;
+}
+#header ul li a{
+    text-decoration: none;
+    padding: 6px 15px;
+    color:#094b65;
+    border-radius: 20px;
+}
+#header ul li a:hover,
+#header ul li a:active
+{
+    background: #094b65;
+    color:#fff;
+}*/
+
+
+#navbarNav ul li a{
+    text-decoration: none;
+    padding: 6px 15px;
+    color:#2cc3ff;
+    border-radius: 20px;
+}
+#navbarNav ul li a:hover,
+#navbarNav ul li a:active
+{
+    background: #094b65;
+    color:#fff;
+}
+#bg img{
+    margin-top: -105px;
+}
+#bg h3{
+    text-align: center;
+    margin-top: -220px;
+    margin-bottom: 220px;
+    color: #fff;
+    font-family: 'rancho', cursive;
+    font-size: 50px;
+}
+.svg{
+    margin-top: -25px;
+}
+#contact{
+    color: #fff;
+    background: #094b65;
+}
+#contact h2{
+    margin-top:50px;
+}
+#footer{
+    margin-top: 130px;
+    color: #fff;
+}
