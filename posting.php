@@ -44,7 +44,6 @@
 <body>
     <div class="sidebar">
         <div class="sidebar-brand">
-            <img src="image/logo.png" width="100px">
         </div>
 
         <div class="sidebar-menu">
@@ -76,8 +75,8 @@
                 <div class="user-wrapper">
                     <img src="image/user.png" width="40px" height="40px" alt="">
                     <div>
-                        <h4>Mr.A</h4>
-                        <small>Lembo Ade Trip</small>
+                        <h4>Admin</h4>
+                        <small>Selamat datang</small>
                     </div>
                 </div>
             </header>
@@ -114,9 +113,6 @@
                     </form>
                 </div>
             </div>
-
-
-
 
 
             <!-- Optional JavaScript; choose one of the two! -->
