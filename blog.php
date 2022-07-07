@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Destinantion In Bima</title>
+    <title>Destinasi di Indonesia</title>
     <link rel="stylesheet" href="blog.css">
 
     <!-- Bootstrap CSS -->
@@ -23,7 +23,6 @@
     <nav class="navbar navbar-expand-lg navbar-light">
         <div class="container">
             <a class="navbar-brand" href="index.php">
-                <img src="image/logo.png" width="100px">
             </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
                 aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -64,7 +63,6 @@
         <div class="card mb-3" style="max-width: 680px;" id="1">
             <div class="row g-0">
                 <div class="col-md-4">
-                    <img src="image/logo.png" class="img-fluid rounded-start" alt="...">
                 </div>
                 <div class="col-md-8">
                     <div class="card-body">
@@ -132,45 +130,23 @@
                     <h3>Social Media</h3>
                 </div>
                 <div>
-                    <i class="bi bi-facebook text-light"> Exolore_Bima</i><br></br>
-                    <i class="bi bi-envelope-open-fill"> Explore_bima@gmail.com</i><br></br>
-                    <i class="bi bi-instagram"> Explorebima</i><br></br>
-                    <i class="bi bi-code-slash"> www.laotrip.com</i><br></br>
-                </div>
-            </div>
-            <div class="mt-5">
-                <div class="ms-5 mt-5">
-                    <div class="mb-3">
-                        <h3>Alamat</h3><br>
-                    </div>
-                    <div>
-                        <p>Depan Kantor BNI Bima</p>
-                        <p>Gg. Cmpu Iba, Sarae, Rasanae Barat.<br>
-                            Kota Bima, Nusa Tenggara Barat.<br>
-                        </p>
-                        <p>Kode Pos : 84118</p>
-                        <p>+6282236831592</p><br>
-                    </div>
+                    <i class="bi bi-facebook text-light"> Tour Guide</i><br></br>
+                    <i class="bi bi-envelope-open-fill"> tourguide@gmail.com</i><br></br>
+                    <i class="bi bi-instagram"> tourguide</i><br></br>
+                    <i class="bi bi-code-slash"> www.tourguide.com</i><br></br>
                 </div>
             </div>
         </div>
 
         <!--footer-->
         <footer id="footer" class="fw-bold text-center pb-3">
-            <p>Created with <i class="bi bi-heart-fill text-danger"></i> by @M.Rizki Madya 2022
+            <p>Created with <i class="bi bi-heart-fill text-danger"></i> by TourGuide
                 <hr>
             </p>
         </footer>
         <!--akhir footer-->
 
     </div>
-
-    <!--akhir contact-->
-
-
-
-
-
 
 
     <!-- Optional JavaScript; choose one of the two! -->
