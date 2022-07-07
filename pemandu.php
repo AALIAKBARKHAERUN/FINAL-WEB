@@ -70,7 +70,7 @@
                 <div class="col-md-8">
                     <div class="card-body mb-5">
                         <h4 class="card-title mb-4">Kacaru Trip</h4>
-                        <p class="card-text">Open Trip | Private Trip | Explore Bima</p>
+                        <p class="card-text">Open Trip | Private Trip | Explore </p>
                         <p class="card-text">Pulau Kelapa - Pantai Pink - Tanjung Meriam - Nisa Ndoko - Mangge Longko
                         </p>
                     </div>
@@ -95,7 +95,7 @@
                 <div class="col-md-8">
                     <div class="card-body mb-5">
                         <h4 class="card-title mb-4">Lembo Ade Trip</h4>
-                        <p class="card-text">Open Trip | Private Trip | Sewa Bot | Guide | Explore Bima</p>
+                        <p class="card-text">Open Trip | Private Trip | Sewa Bot | Guide | Explore </p>
                         <p class="card-text">Pulau Kelapa - Pantai Pink - Tanjung Meriam - Nisa Ndoko - Mangge Longko -
                             Destinasi di Bima</p>
                     </div>
@@ -124,10 +124,10 @@
                 <div class="col-lg-6 col-md-12 mb-4 mb-md-0 mt-3">
                     <h3>Social Media</h3><br></br>
                     <div>
-                        <i class="bi bi-facebook text-light"> Exolore_Bima</i><br></br>
-                        <i class="bi bi-envelope-open-fill"> Explore_bima@gmail.com</i><br></br>
-                        <i class="bi bi-instagram"> Explorebima</i><br></br>
-                        <i class="bi bi-code-slash"> www.laotrip.com</i><br></br>
+                        <i class="bi bi-facebook text-light"> TourGuide</i><br></br>
+                        <i class="bi bi-envelope-open-fill"> TourGuide</i><br></br>
+                        <i class="bi bi-instagram"> TourGuide</i><br></br>
+                        <i class="bi bi-code-slash"> www.tourguide.com</i><br></br>
                     </div>
                 </div>
                 <!--Grid column-->
@@ -164,9 +164,6 @@
     </script>
 
     <!--akhir main js-->
-
-
-
 
 
     <!-- Optional JavaScript; choose one of the two! -->
